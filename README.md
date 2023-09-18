@@ -21,13 +21,4 @@ This is a simple alarm clock project implemented in Python. It allows users to s
 
 3. Once the alarm time is reached, the program will play a sound to notify you.
 
-4. You can stop the alarm by pressing `Ctrl + C` or closing the terminal window.
-
-## Customization
-
-- You can modify the sound file played for the alarm by replacing the `alarm.wav` file in the project directory with your own audio file. Make sure the file is in WAV format.
-
-
-## Contributing
-
-Contributions are welcome! If you find any issues or would like to add new features, please open an issue or submit a pull request.
+4. You can stop the alarm by pressing `Ctrl + C` or closing the terminal window
